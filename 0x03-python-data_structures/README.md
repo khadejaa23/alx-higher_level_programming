@@ -1,6 +1,6 @@
 # 0x03-python-data_structures
 
-##### In this project, I learnt about:
+### In this project, I learnt about:
 
 - What are lists and how to use them
 - What are the differences and similarities between strings and lists
